@@ -1,3 +1,3 @@
-Hi,we are learning Git together. and to never
+Hi,we are learning Git together. 
 Have a good time!
 have fun.
